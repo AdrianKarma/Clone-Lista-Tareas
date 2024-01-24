@@ -1,0 +1,26 @@
+body{
+  background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+   
+  }
+  
+  .principal {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .nuevoMain {
+    flex-grow: 1;
+  }
+  
+  .labelTarea{
+    background-color: #C850C0 ;
+    border-radius: 10%;
+    text-align: center;
+    margin-right: 5px;
+    color: rgb(5, 5, 5);
+    border: 2px solid black;
+    font-weight: bold;
+    }
+  
+    
