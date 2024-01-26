@@ -11,7 +11,7 @@ function App() {
     <>
     <section className='principal'>
     <Container className='my-4 nuevoMain'>
-      <h1 className='text-center display-3'>Lista de Tareas</h1>
+      <h1 className='text-center display-3 mb-4'>Lista de Tareas En Local Storage</h1>
       <FormularioTareas></FormularioTareas>
     </Container>
     <Footer ></Footer>
