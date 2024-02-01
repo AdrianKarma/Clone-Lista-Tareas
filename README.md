@@ -1,8 +1,23 @@
-# React + Vite
+# Ejercicio 05 de React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+##
+Lista de tareas (con localstorage)- Dificultad:  🟢🟡
 
-Currently, two official plugins are available:
+- Modifica el programa anterior para que las tareas se puedan almacenar en el localstorage.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##
+
+
+>[!NOTE]
+Modo de uso
+Lineas para clonar y correr el proyecto:
+
+- `git clone`
+- `npm install`
+- `npm start`
+
+##
+ >[!IMPORTANT]
+Link Netlify:
+https://react-tp-05-adrian-chanampa.netlify.app/
+
